@@ -1,0 +1,18 @@
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\GrandDevOpsSanAndreas.exe
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\san andreas design.png
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\GrandDevOpsSanAndreas.deps.json
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\GrandDevOpsSanAndreas.runtimeconfig.json
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\GrandDevOpsSanAndreas.dll
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\GrandDevOpsSanAndreas.pdb
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.Form1.resources
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.Properties.Resources.resources
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.csproj.GenerateResource.cache
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.AssemblyInfoInputs.cache
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.AssemblyInfo.cs
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.csproj.CoreCompileInputs.cache
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.dll
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\refint\GrandDevOpsSanAndreas.dll
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.pdb
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.genruntimeconfig.cache
+C:\Users\Kaká\source\repos\GrandDevOpsSanAndreas\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\ref\GrandDevOpsSanAndreas.dll
