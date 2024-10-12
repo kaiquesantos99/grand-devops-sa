@@ -24,13 +24,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="images\" />
+    <PackageReference Include="MySql.Data" Version="9.0.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="images\san andreas design.png">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <Folder Include="DataAccess\" />
+    <Folder Include="Model\" />
   </ItemGroup>
 
 </Project>
