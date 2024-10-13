@@ -70,12 +70,12 @@
             // 
             lblHour.AutoSize = true;
             lblHour.BackColor = Color.Transparent;
-            lblHour.Font = new Font("Pricedown Bl", 36F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            lblHour.Location = new Point(861, 20);
+            lblHour.Font = new Font("Pricedown Bl", 32.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblHour.Location = new Point(856, 24);
             lblHour.Name = "lblHour";
-            lblHour.Size = new Size(113, 58);
-            lblHour.TabIndex = 6;
-            lblHour.Text = "10:10";
+            lblHour.Size = new Size(121, 52);
+            lblHour.TabIndex = 1;
+            lblHour.Text = "09:07";
             // 
             // lblAlt1
             // 
@@ -224,6 +224,7 @@
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1015, 633);
+            Controls.Add(lblHour);
             Controls.Add(lblQuestionNum);
             Controls.Add(pbAlt1);
             Controls.Add(pbAlt3);
@@ -235,7 +236,6 @@
             Controls.Add(lblAlt3);
             Controls.Add(lblAlt2);
             Controls.Add(lblAlt1);
-            Controls.Add(lblHour);
             Controls.Add(lblCash);
             Controls.Add(pbStars);
             Controls.Add(pbVest);

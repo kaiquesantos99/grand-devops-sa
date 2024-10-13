@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kaká\\source\\repos\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj": {}
+    "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kaká\\source\\repos\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj": {
+    "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kaká\\source\\repos\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj",
+        "projectUniqueName": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj",
         "projectName": "GrandDevOpsSanAndreas",
-        "projectPath": "C:\\Users\\Kaká\\source\\repos\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj",
-        "packagesPath": "C:\\Users\\Kaká\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kaká\\source\\repos\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas\\obj\\",
+        "projectPath": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj",
+        "packagesPath": "C:\\Users\\Kaique\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Kaká\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kaique\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

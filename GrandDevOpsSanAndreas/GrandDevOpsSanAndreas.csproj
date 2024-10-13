@@ -27,9 +27,4 @@
     <PackageReference Include="MySql.Data" Version="9.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="DataAccess\" />
-    <Folder Include="Model\" />
-  </ItemGroup>
-
 </Project>
