@@ -45,6 +45,7 @@
             pbAlt3 = new PictureBox();
             pbAlt1 = new PictureBox();
             lblQuestionNum = new Label();
+            pbNext = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)pbStars).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pbHealth).BeginInit();
@@ -53,6 +54,7 @@
             ((System.ComponentModel.ISupportInitialize)pbAlt4).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pbAlt3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pbAlt1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pbNext).BeginInit();
             SuspendLayout();
             // 
             // lblCash
@@ -65,6 +67,7 @@
             lblCash.Size = new Size(234, 42);
             lblCash.TabIndex = 5;
             lblCash.Text = "R$0000000000";
+            lblCash.TextAlign = ContentAlignment.TopRight;
             // 
             // lblHour
             // 
@@ -145,6 +148,7 @@
             pbStars.Size = new Size(217, 42);
             pbStars.TabIndex = 18;
             pbStars.TabStop = false;
+            pbStars.Visible = false;
             // 
             // pictureBox2
             // 
@@ -154,6 +158,7 @@
             pictureBox2.Size = new Size(222, 79);
             pictureBox2.TabIndex = 19;
             pictureBox2.TabStop = false;
+            pictureBox2.Click += pictureBox2_Click;
             // 
             // pbHealth
             // 
@@ -181,6 +186,7 @@
             pbAlt2.Size = new Size(42, 42);
             pbAlt2.TabIndex = 22;
             pbAlt2.TabStop = false;
+            pbAlt2.Click += pbAlt2_Click;
             // 
             // pbAlt4
             // 
@@ -190,6 +196,7 @@
             pbAlt4.Size = new Size(42, 42);
             pbAlt4.TabIndex = 23;
             pbAlt4.TabStop = false;
+            pbAlt4.Click += pbAlt4_Click;
             // 
             // pbAlt3
             // 
@@ -199,6 +206,7 @@
             pbAlt3.Size = new Size(42, 42);
             pbAlt3.TabIndex = 24;
             pbAlt3.TabStop = false;
+            pbAlt3.Click += pbAlt3_Click;
             // 
             // pbAlt1
             // 
@@ -208,6 +216,7 @@
             pbAlt1.Size = new Size(42, 42);
             pbAlt1.TabIndex = 25;
             pbAlt1.TabStop = false;
+            pbAlt1.Click += pbAlt1_Click;
             // 
             // lblQuestionNum
             // 
@@ -219,11 +228,25 @@
             lblQuestionNum.TabIndex = 26;
             lblQuestionNum.Text = "1";
             // 
+            // pbNext
+            // 
+            pbNext.Image = Properties.Resources.next_button;
+            pbNext.Location = new Point(840, 622);
+            pbNext.Name = "pbNext";
+            pbNext.Size = new Size(138, 39);
+            pbNext.TabIndex = 27;
+            pbNext.TabStop = false;
+            pbNext.Visible = false;
+            pbNext.Click += pbNext_Click;
+            pbNext.MouseEnter += pbNext_MouseEnter;
+            pbNext.MouseLeave += pbNext_MouseLeave;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1015, 633);
+            ClientSize = new Size(1015, 695);
+            Controls.Add(pbNext);
             Controls.Add(lblHour);
             Controls.Add(lblQuestionNum);
             Controls.Add(pbAlt1);
@@ -251,6 +274,7 @@
             ((System.ComponentModel.ISupportInitialize)pbAlt4).EndInit();
             ((System.ComponentModel.ISupportInitialize)pbAlt3).EndInit();
             ((System.ComponentModel.ISupportInitialize)pbAlt1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pbNext).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -273,5 +297,6 @@
         private PictureBox pbAlt3;
         private PictureBox pbAlt1;
         private Label lblQuestionNum;
+        private PictureBox pbNext;
     }
 }

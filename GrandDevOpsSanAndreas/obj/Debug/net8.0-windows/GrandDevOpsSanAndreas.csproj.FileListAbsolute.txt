@@ -49,3 +49,13 @@ C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Debug\net
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.pdb
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.genruntimeconfig.cache
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\ref\GrandDevOpsSanAndreas.dll
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\songs\certo.wav
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\songs\errado.wav
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\songs\proximo.wav
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.Store.resources
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\songs\wasted.wav
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.GameOver.resources
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\songs\missao_concluida.wav
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.MissaoConcluida.resources
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\songs\merchant_thankyou.wav
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\songs\welcome.wav
