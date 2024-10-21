@@ -106,6 +106,9 @@
     <None Update="images\two_stars.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Update="images\uninove_icon.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="images\vest.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

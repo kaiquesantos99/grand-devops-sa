@@ -68,3 +68,4 @@ C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Release\n
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Release\net8.0-windows\GrandDevOpsSanAndreas.pdb
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Release\net8.0-windows\GrandDevOpsSanAndreas.genruntimeconfig.cache
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Release\net8.0-windows\ref\GrandDevOpsSanAndreas.dll
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Release\net8.0-windows\images\uninove_icon.ico

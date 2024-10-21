@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MissaoConcluida));
             lblAcertos = new Label();
             lblErros = new Label();
             SuspendLayout();
@@ -62,8 +63,9 @@
             Controls.Add(lblErros);
             Controls.Add(lblAcertos);
             DoubleBuffered = true;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "MissaoConcluida";
-            Text = "MissaoConcluida";
+            Text = "Missão Concluída";
             ResumeLayout(false);
         }
 

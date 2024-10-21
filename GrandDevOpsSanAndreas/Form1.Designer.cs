@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             lblCash = new Label();
             lblHour = new Label();
             lblAlt1 = new Label();
@@ -264,8 +265,9 @@
             Controls.Add(pbVest);
             Controls.Add(pictureBox2);
             Controls.Add(pbAlt2);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
-            Text = "Grand DevOps San Andreas v1.0 | ByteGenius Group";
+            Text = "Grand Theft Auto DevOps";
             ((System.ComponentModel.ISupportInitialize)pbStars).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ((System.ComponentModel.ISupportInitialize)pbHealth).EndInit();

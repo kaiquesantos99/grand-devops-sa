@@ -59,3 +59,30 @@ C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.MissaoConcluida.resources
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\songs\merchant_thankyou.wav
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\songs\welcome.wav
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\alternative.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\alt_correct.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\alt_incorrect.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\alt_ok.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\background-gameover.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\bis.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\book.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\cola.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\energy.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\five_stars.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\four_stars.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\mercado.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\milho.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\next_button.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\next_button_on.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\one_star.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\police_six_stars.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\police_star.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\police_star_zero.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\san andreas design.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\se fodeu.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\six_stars.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\tapioca.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\tela_final.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\three_stars.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\two_stars.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\vest.png

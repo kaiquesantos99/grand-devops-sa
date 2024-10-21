@@ -154,8 +154,13 @@ namespace GrandDevOpsSanAndreas
                             MessageBox.Show("Erro ao reproduzir o som: " + ex);
                         }
 
-                        // Mais dinheiro
-                        dinheiro = Convert.ToInt32(Math.Round((float)dinheiro + (dinheiro / random.NextInt64(1, 7))));
+                        // Mais dinheiro                        
+                        if (random.NextInt64(1,9)%2 == 0)
+                        {
+                            dinheiro = dinheiro + Convert.ToInt32(random.NextInt64(1, 100));
+                        }
+                        
+
                         if (dinheiro == 0)
                         {
                             dinheiro = 1;
@@ -312,8 +317,13 @@ namespace GrandDevOpsSanAndreas
                             MessageBox.Show("Erro ao reproduzir o som: " + ex);
                         }
 
-                        // Mais dinheiro
-                        dinheiro = Convert.ToInt32(Math.Round((float)dinheiro + (dinheiro / random.NextInt64(1, 7))));
+                        // Mais dinheiro                        
+                        if (random.NextInt64(1, 9) % 2 == 0)
+                        {
+                            dinheiro = dinheiro + Convert.ToInt32(random.NextInt64(1, 100));
+                        }
+
+
                         if (dinheiro == 0)
                         {
                             dinheiro = 1;
@@ -506,8 +516,13 @@ namespace GrandDevOpsSanAndreas
                             MessageBox.Show("Erro ao reproduzir o som: " + ex);
                         }
 
-                        // Mais dinheiro
-                        dinheiro = Convert.ToInt32(Math.Round((float)dinheiro + (dinheiro / random.NextInt64(1, 7))));
+                        // Mais dinheiro                        
+                        if (random.NextInt64(1, 9) % 2 == 0)
+                        {
+                            dinheiro = dinheiro + Convert.ToInt32(random.NextInt64(1, 100));
+                        }
+
+
                         if (dinheiro == 0)
                         {
                             dinheiro = 1;
@@ -665,8 +680,13 @@ namespace GrandDevOpsSanAndreas
                             MessageBox.Show("Erro ao reproduzir o som: " + ex);
                         }
 
-                        // Mais dinheiro
-                        dinheiro = Convert.ToInt32(Math.Round((float)dinheiro + (dinheiro / random.NextInt64(1, 7))));
+                        // Mais dinheiro                        
+                        if (random.NextInt64(1, 9) % 2 == 0)
+                        {
+                            dinheiro = dinheiro + Convert.ToInt32(random.NextInt64(1, 100));
+                        }
+
+
                         if (dinheiro == 0)
                         {
                             dinheiro = 1;
@@ -858,8 +878,13 @@ namespace GrandDevOpsSanAndreas
                             MessageBox.Show("Erro ao reproduzir o som: " + ex);
                         }
 
-                        // Mais dinheiro
-                        dinheiro = Convert.ToInt32(Math.Round((float)dinheiro + (dinheiro / random.NextInt64(1, 7))));
+                        // Mais dinheiro                        
+                        if (random.NextInt64(1, 9) % 2 == 0)
+                        {
+                            dinheiro = dinheiro + Convert.ToInt32(random.NextInt64(1, 100));
+                        }
+
+
                         if (dinheiro == 0)
                         {
                             dinheiro = 1;
@@ -1016,8 +1041,13 @@ namespace GrandDevOpsSanAndreas
                             MessageBox.Show("Erro ao reproduzir o som: " + ex);
                         }
 
-                        // Mais dinheiro
-                        dinheiro = Convert.ToInt32(Math.Round((float)dinheiro + (dinheiro / random.NextInt64(1, 7))));
+                        // Mais dinheiro                        
+                        if (random.NextInt64(1, 9) % 2 == 0)
+                        {
+                            dinheiro = dinheiro + Convert.ToInt32(random.NextInt64(1, 100));
+                        }
+
+
                         if (dinheiro == 0)
                         {
                             dinheiro = 1;
@@ -1209,8 +1239,13 @@ namespace GrandDevOpsSanAndreas
                             MessageBox.Show("Erro ao reproduzir o som: " + ex);
                         }
 
-                        // Mais dinheiro
-                        dinheiro = Convert.ToInt32(Math.Round((float)dinheiro + (dinheiro / random.NextInt64(1, 7))));
+                        // Mais dinheiro                        
+                        if (random.NextInt64(1, 9) % 2 == 0)
+                        {
+                            dinheiro = dinheiro + Convert.ToInt32(random.NextInt64(1, 100));
+                        }
+
+
                         if (dinheiro == 0)
                         {
                             dinheiro = 1;
@@ -1368,8 +1403,13 @@ namespace GrandDevOpsSanAndreas
                             MessageBox.Show("Erro ao reproduzir o som: " + ex);
                         }
 
-                        // Mais dinheiro
-                        dinheiro = Convert.ToInt32(Math.Round((float)dinheiro + (dinheiro / random.NextInt64(1, 7))));
+                        // Mais dinheiro                        
+                        if (random.NextInt64(1, 9) % 2 == 0)
+                        {
+                            dinheiro = dinheiro + Convert.ToInt32(random.NextInt64(1, 100));
+                        }
+
+
                         if (dinheiro == 0)
                         {
                             dinheiro = 1;

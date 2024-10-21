@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Store));
             pbBis = new PictureBox();
             pbTapioca = new PictureBox();
             pbMilho = new PictureBox();
@@ -152,7 +153,7 @@
             lblBookValor.Name = "lblBookValor";
             lblBookValor.Size = new Size(38, 15);
             lblBookValor.TabIndex = 9;
-            lblBookValor.Text = "R$200";
+            lblBookValor.Text = "R$100";
             lblBookValor.Visible = false;
             // 
             // Store
@@ -171,6 +172,7 @@
             Controls.Add(pbMilho);
             Controls.Add(pbTapioca);
             Controls.Add(pbBis);
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Store";
             Text = "Store";
             ((System.ComponentModel.ISupportInitialize)pbBis).EndInit();

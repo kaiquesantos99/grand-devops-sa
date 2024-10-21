@@ -73,10 +73,10 @@ namespace GrandDevOpsSanAndreas
             if (jogo.estrelas > 0)
             {
 
-                if (jogo.dinheiro >= 200)
+                if (jogo.dinheiro >= 100)
                 {
                     jogo.estrelas--;
-                    jogo.dinheiro -= 200;
+                    jogo.dinheiro -= 100;
                     lblDinheiro.Text = "R$" + jogo.dinheiro.ToString();
 
                     switch (jogo.estrelas)

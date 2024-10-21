@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(GameOver));
             SuspendLayout();
             // 
             // GameOver
@@ -38,6 +39,7 @@
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(647, 341);
             DoubleBuffered = true;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "GameOver";
             Text = "Fim de Jogo :(";
             ResumeLayout(false);
