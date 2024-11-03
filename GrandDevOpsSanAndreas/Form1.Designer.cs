@@ -250,7 +250,7 @@
             // pbNext
             // 
             pbNext.Image = Properties.Resources.next_button;
-            pbNext.Location = new Point(64, 436);
+            pbNext.Location = new Point(69, 189);
             pbNext.Name = "pbNext";
             pbNext.Size = new Size(138, 39);
             pbNext.TabIndex = 27;
