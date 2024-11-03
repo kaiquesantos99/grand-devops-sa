@@ -86,3 +86,4 @@ C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\three_stars.png
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\two_stars.png
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\vest.png
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\uninove_icon.ico

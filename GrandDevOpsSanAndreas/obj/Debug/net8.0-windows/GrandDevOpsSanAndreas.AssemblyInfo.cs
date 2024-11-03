@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GrandDevOpsSanAndreas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c45abc5573f1e6b516c69ed4e1a4aa0bc8d5c6f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60189771a32ffcca1814dd9f858b0e9c59b1e48c")]
 [assembly: System.Reflection.AssemblyProductAttribute("GrandDevOpsSanAndreas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GrandDevOpsSanAndreas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

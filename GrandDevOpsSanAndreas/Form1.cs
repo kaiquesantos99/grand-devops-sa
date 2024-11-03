@@ -135,7 +135,7 @@ namespace GrandDevOpsSanAndreas
                 {
                     if (respostaCorreta == 1) // Se estiver correta
                     {
-                       
+
 
                         Random random = new Random();
 
@@ -155,11 +155,11 @@ namespace GrandDevOpsSanAndreas
                         }
 
                         // Mais dinheiro                        
-                        if (random.NextInt64(1,9)%2 == 0)
+                        if (random.NextInt64(1, 9) % 2 == 0)
                         {
                             dinheiro = dinheiro + Convert.ToInt32(random.NextInt64(1, 100));
                         }
-                        
+
 
                         if (dinheiro == 0)
                         {
@@ -481,7 +481,7 @@ namespace GrandDevOpsSanAndreas
 
                     } // AQUI
                 }
-                
+
             }
             else
             {
@@ -845,7 +845,7 @@ namespace GrandDevOpsSanAndreas
                     } // AQUI
                 }
 
-                
+
             }
             else
             {
@@ -1206,7 +1206,7 @@ namespace GrandDevOpsSanAndreas
                     } // AQUI
                 }
 
-                
+
             }
             else
             {
@@ -1567,9 +1567,9 @@ namespace GrandDevOpsSanAndreas
 
                     }
 
-                    
+
                 }
-                
+
             }
             else
             {
@@ -1604,7 +1604,12 @@ namespace GrandDevOpsSanAndreas
         private void pictureBox2_Click(object sender, EventArgs e)
         {
 
-            new Store(this,pbHealth,lblCash,pbStars).Show();
+            new Store(this, pbHealth, lblCash, pbStars).Show();
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }
