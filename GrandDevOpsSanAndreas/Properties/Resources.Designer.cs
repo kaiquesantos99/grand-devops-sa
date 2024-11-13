@@ -103,6 +103,16 @@ namespace GrandDevOpsSanAndreas.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap anonymous {
+            get {
+                object obj = ResourceManager.GetObject("anonymous", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap background_gameover {
             get {
                 object obj = ResourceManager.GetObject("background-gameover", resourceCulture);
@@ -126,6 +136,16 @@ namespace GrandDevOpsSanAndreas.Properties {
         internal static System.Drawing.Bitmap book {
             get {
                 object obj = ResourceManager.GetObject("book", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap busca {
+            get {
+                object obj = ResourceManager.GetObject("busca", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

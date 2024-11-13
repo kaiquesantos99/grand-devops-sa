@@ -49,6 +49,7 @@
             pbNext = new PictureBox();
             tableLayoutPanel1 = new TableLayoutPanel();
             panel5 = new Panel();
+            btnCheat = new Button();
             panel6 = new Panel();
             tableLayoutPanel2 = new TableLayoutPanel();
             panel2 = new Panel();
@@ -145,7 +146,7 @@
             lblQuestion.Font = new Font("Arial Narrow", 12F);
             lblQuestion.Location = new Point(18, 58);
             lblQuestion.Name = "lblQuestion";
-            lblQuestion.Size = new Size(604, 121);
+            lblQuestion.Size = new Size(939, 121);
             lblQuestion.TabIndex = 12;
             lblQuestion.Text = "PERGUNTA";
             // 
@@ -158,6 +159,7 @@
             label7.Size = new Size(152, 42);
             label7.TabIndex = 13;
             label7.Text = "QUESTÃO  - ";
+            label7.Click += label7_Click;
             // 
             // pbStars
             // 
@@ -282,6 +284,7 @@
             // 
             // panel5
             // 
+            panel5.Controls.Add(btnCheat);
             panel5.Controls.Add(label7);
             panel5.Controls.Add(lblQuestion);
             panel5.Controls.Add(lblQuestionNum);
@@ -290,6 +293,18 @@
             panel5.Name = "panel5";
             panel5.Size = new Size(1098, 240);
             panel5.TabIndex = 33;
+            // 
+            // btnCheat
+            // 
+            btnCheat.BackgroundImage = Properties.Resources.anonymous;
+            btnCheat.BackgroundImageLayout = ImageLayout.Zoom;
+            btnCheat.Location = new Point(999, 19);
+            btnCheat.Name = "btnCheat";
+            btnCheat.Size = new Size(80, 80);
+            btnCheat.TabIndex = 22;
+            btnCheat.UseVisualStyleBackColor = true;
+            btnCheat.Visible = false;
+            btnCheat.Click += button1_Click;
             // 
             // panel6
             // 
@@ -335,8 +350,8 @@
             // 
             // panel1
             // 
-            panel1.Controls.Add(lblAlt1);
             panel1.Controls.Add(pbAlt1);
+            panel1.Controls.Add(lblAlt1);
             panel1.Dock = DockStyle.Fill;
             panel1.Location = new Point(3, 3);
             panel1.Name = "panel1";
@@ -433,5 +448,6 @@
         private Panel panel6;
         private TableLayoutPanel tableLayoutPanel2;
         private Panel panel7;
+        private Button btnCheat;
     }
 }

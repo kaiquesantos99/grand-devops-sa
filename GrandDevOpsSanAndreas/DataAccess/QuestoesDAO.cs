@@ -53,5 +53,64 @@ namespace GrandDevOpsSanAndreas.DataAccess
             return lista;
         }
 
+        public Questoes SearchQuestion(string busca)
+        {
+            
+            if (busca.Length == 0)
+            {
+                return new Questoes();
+            }
+            else
+            {
+                List<Questoes> lista = new List<Questoes>();
+                using (MySqlConnection conn = db.GetConnection())
+                {
+
+
+                    try
+                    {
+                        conn.Open();
+                        string query = "SELECT * FROM questoes WHERE question LIKE @busca";
+
+
+                        using (MySqlCommand cmd = new MySqlCommand(query, conn))
+                        {
+                            cmd.Parameters.AddWithValue("@busca", "%" + busca + "%");
+
+                            using (MySqlDataReader reader = cmd.ExecuteReader())
+                            {
+
+                                while (reader.Read())
+                                {
+                                    Questoes question = new Questoes
+                                    {
+                                        Question = reader.GetString("question"),
+                                        Option1 = reader.GetString("option1")
+                                    };
+                                    lista.Add(question);
+                                }
+                                return lista[0];
+                            }
+
+                        }
+
+
+                    }
+                    catch (Exception ex)
+                    {
+                        MessageBox.Show("Questão não encontrada!");
+                        return new Questoes();
+                    }
+                }
+            }
+
+            
+            
+
+            
+
+            
+        }
+
     }
 }

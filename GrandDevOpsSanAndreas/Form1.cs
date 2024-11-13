@@ -914,7 +914,7 @@ namespace GrandDevOpsSanAndreas
                                 pbAlt1.Image = Properties.Resources.alt_correct;
                                 break;
                             case 2:
-                                pbAlt3.Image = Properties.Resources.alt_correct;
+                                pbAlt2.Image = Properties.Resources.alt_correct;
                                 break;
                             case 4:
                                 pbAlt4.Image = Properties.Resources.alt_correct;
@@ -1610,6 +1610,23 @@ namespace GrandDevOpsSanAndreas
         private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            new CheatWindow().Show();
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            if (!btnCheat.Visible)
+            {
+                btnCheat.Visible = true;
+            }
+            else
+            {
+                btnCheat.Visible = false;
+            }
         }
     }
 }

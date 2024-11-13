@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA278E63-3AAE-448F-A457-EC65980A2300}|GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj|c:\\users\\kaique\\source\\repos\\grand-devops-sa\\granddevopssanandreas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA278E63-3AAE-448F-A457-EC65980A2300}|GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj|c:\\users\\kaique\\source\\repos\\grand-devops-sa\\granddevopssanandreas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA278E63-3AAE-448F-A457-EC65980A2300}|GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj|solutionrelative:granddevopssanandreas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA278E63-3AAE-448F-A457-EC65980A2300}|GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj|C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\granddevopssanandreas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA278E63-3AAE-448F-A457-EC65980A2300}|GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj|solutionrelative:granddevopssanandreas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -23,14 +27,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\Form1.cs",
+              "RelativeDocumentMoniker": "GrandDevOpsSanAndreas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\Form1.cs",
+              "RelativeToolTip": "GrandDevOpsSanAndreas\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwCwBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T22:53:13.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\Form1.cs",
               "RelativeDocumentMoniker": "GrandDevOpsSanAndreas\\Form1.cs",
               "ToolTip": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\Form1.cs [Projeto]",
               "RelativeToolTip": "GrandDevOpsSanAndreas\\Form1.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T01:25:02.024Z",
-              "EditorCaption": " [Projeto]"
+              "WhenOpened": "2024-11-03T22:07:18.768Z"
             }
           ]
         }

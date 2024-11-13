@@ -87,3 +87,4 @@ C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\two_stars.png
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\vest.png
 C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\bin\Debug\net8.0-windows\images\uninove_icon.ico
+C:\Users\Kaique\source\repos\grand-devops-sa\GrandDevOpsSanAndreas\obj\Debug\net8.0-windows\GrandDevOpsSanAndreas.CheatWindow.resources
