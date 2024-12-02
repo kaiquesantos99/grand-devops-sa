@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "blpBh031RdM=",
+  "dgSpecHash": "Tak6Wa0oFKU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj",
+  "projectFilePath": "C:\\Users\\Kaique\\source\\repos\\grand-av2\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kaique\\.nuget\\packages\\bouncycastle.cryptography\\2.3.1\\bouncycastle.cryptography.2.3.1.nupkg.sha512",
     "C:\\Users\\Kaique\\.nuget\\packages\\google.protobuf\\3.26.1\\google.protobuf.3.26.1.nupkg.sha512",

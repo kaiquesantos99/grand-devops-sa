@@ -41,6 +41,7 @@ namespace GrandDevOpsSanAndreas
 
 
             // 4 - EXIBIR OS DADOS NO WINDOW FORM
+            lblQuestionType.Text = "(" + listaQuestoes[questaoEscolhida].Tipo + ")";
             lblQuestion.Text = listaQuestoes[questaoEscolhida].Question; // Exibe a questão na form
             lblQuestionNum.Text = questaoAtual.ToString(); // Exibe a contagem das questões
 

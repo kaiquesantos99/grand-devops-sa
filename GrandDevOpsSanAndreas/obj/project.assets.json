@@ -1612,11 +1612,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj",
+      "projectUniqueName": "C:\\Users\\Kaique\\source\\repos\\grand-av2\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj",
       "projectName": "GrandDevOpsSanAndreas",
-      "projectPath": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj",
+      "projectPath": "C:\\Users\\Kaique\\source\\repos\\grand-av2\\GrandDevOpsSanAndreas\\GrandDevOpsSanAndreas.csproj",
       "packagesPath": "C:\\Users\\Kaique\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kaique\\source\\repos\\grand-devops-sa\\GrandDevOpsSanAndreas\\obj\\",
+      "outputPath": "C:\\Users\\Kaique\\source\\repos\\grand-av2\\GrandDevOpsSanAndreas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kaique\\AppData\\Roaming\\NuGet\\NuGet.Config",

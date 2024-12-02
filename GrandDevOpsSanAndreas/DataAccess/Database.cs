@@ -10,7 +10,7 @@ namespace GrandDevOpsSanAndreas.DataAccess
     internal class Database
     {
         // ATRIBUTOS
-        private string connectionString = "Server=localhost;Database=provadevops;Uid=root;Pwd=;";
+        private string connectionString = "Server=localhost;Database=av2;Uid=root;Pwd=;";
 
         // MÉTODOS
         public MySqlConnection GetConnection()

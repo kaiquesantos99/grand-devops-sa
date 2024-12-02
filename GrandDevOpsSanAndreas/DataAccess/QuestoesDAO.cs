@@ -32,7 +32,7 @@ namespace GrandDevOpsSanAndreas.DataAccess
             using (MySqlConnection conn = db.GetConnection())
             {
                 conn.Open();
-                string query = "SELECT * FROM questoes";
+                string query = "SELECT * FROM questions";
                 MySqlCommand cmd = new MySqlCommand(query, conn);
                 MySqlDataReader reader = cmd.ExecuteReader();
 
@@ -41,6 +41,7 @@ namespace GrandDevOpsSanAndreas.DataAccess
                     Questoes questao = new Questoes
                     {
                         Id = reader.GetInt32("id"),
+                        Tipo = reader.GetString("tipo"),
                         Question = reader.GetString("question"),
                         Option1 = reader.GetString("option1"),
                         Option2 = reader.GetString("option2"),
@@ -70,7 +71,7 @@ namespace GrandDevOpsSanAndreas.DataAccess
                     try
                     {
                         conn.Open();
-                        string query = "SELECT * FROM questoes WHERE question LIKE @busca";
+                        string query = "SELECT * FROM questions WHERE question LIKE @busca";
 
 
                         using (MySqlCommand cmd = new MySqlCommand(query, conn))

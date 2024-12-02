@@ -49,6 +49,7 @@
             pbNext = new PictureBox();
             tableLayoutPanel1 = new TableLayoutPanel();
             panel5 = new Panel();
+            lblQuestionType = new Label();
             btnCheat = new Button();
             panel6 = new Panel();
             tableLayoutPanel2 = new TableLayoutPanel();
@@ -245,9 +246,9 @@
             lblQuestionNum.Font = new Font("Arial Black", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lblQuestionNum.Location = new Point(176, 12);
             lblQuestionNum.Name = "lblQuestionNum";
-            lblQuestionNum.Size = new Size(123, 42);
+            lblQuestionNum.Size = new Size(65, 42);
             lblQuestionNum.TabIndex = 26;
-            lblQuestionNum.Text = "1";
+            lblQuestionNum.Text = "888";
             // 
             // pbNext
             // 
@@ -284,6 +285,7 @@
             // 
             // panel5
             // 
+            panel5.Controls.Add(lblQuestionType);
             panel5.Controls.Add(btnCheat);
             panel5.Controls.Add(label7);
             panel5.Controls.Add(lblQuestion);
@@ -293,6 +295,16 @@
             panel5.Name = "panel5";
             panel5.Size = new Size(1098, 240);
             panel5.TabIndex = 33;
+            // 
+            // lblQuestionType
+            // 
+            lblQuestionType.BackColor = SystemColors.Control;
+            lblQuestionType.Font = new Font("Arial Black", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblQuestionType.Location = new Point(247, 12);
+            lblQuestionType.Name = "lblQuestionType";
+            lblQuestionType.Size = new Size(710, 42);
+            lblQuestionType.TabIndex = 27;
+            lblQuestionType.Text = "type";
             // 
             // btnCheat
             // 
@@ -449,5 +461,6 @@
         private TableLayoutPanel tableLayoutPanel2;
         private Panel panel7;
         private Button btnCheat;
+        private Label lblQuestionType;
     }
 }
