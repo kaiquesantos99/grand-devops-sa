@@ -103,8 +103,9 @@
             // 
             // lblAlt1
             // 
-            lblAlt1.BackColor = SystemColors.Control;
-            lblAlt1.Font = new Font("Times New Roman", 11.25F);
+            lblAlt1.BackColor = Color.FromArgb(64, 64, 64);
+            lblAlt1.Font = new Font("Times New Roman", 9.75F);
+            lblAlt1.ForeColor = Color.White;
             lblAlt1.Location = new Point(57, 27);
             lblAlt1.Name = "lblAlt1";
             lblAlt1.Size = new Size(467, 198);
@@ -113,8 +114,9 @@
             // 
             // lblAlt2
             // 
-            lblAlt2.BackColor = SystemColors.Control;
-            lblAlt2.Font = new Font("Times New Roman", 11.25F);
+            lblAlt2.BackColor = Color.FromArgb(64, 64, 64);
+            lblAlt2.Font = new Font("Times New Roman", 9.75F);
+            lblAlt2.ForeColor = Color.White;
             lblAlt2.Location = new Point(61, 27);
             lblAlt2.Name = "lblAlt2";
             lblAlt2.Size = new Size(466, 198);
@@ -123,8 +125,9 @@
             // 
             // lblAlt3
             // 
-            lblAlt3.BackColor = SystemColors.Control;
-            lblAlt3.Font = new Font("Times New Roman", 11.25F);
+            lblAlt3.BackColor = Color.FromArgb(64, 64, 64);
+            lblAlt3.Font = new Font("Times New Roman", 9.75F);
+            lblAlt3.ForeColor = Color.White;
             lblAlt3.Location = new Point(57, 26);
             lblAlt3.Name = "lblAlt3";
             lblAlt3.Size = new Size(467, 200);
@@ -133,8 +136,9 @@
             // 
             // lblAlt4
             // 
-            lblAlt4.BackColor = SystemColors.Control;
-            lblAlt4.Font = new Font("Times New Roman", 11.25F);
+            lblAlt4.BackColor = Color.FromArgb(64, 64, 64);
+            lblAlt4.Font = new Font("Times New Roman", 9.75F);
+            lblAlt4.ForeColor = Color.White;
             lblAlt4.Location = new Point(61, 26);
             lblAlt4.Name = "lblAlt4";
             lblAlt4.Size = new Size(466, 200);
@@ -143,18 +147,20 @@
             // 
             // lblQuestion
             // 
-            lblQuestion.BackColor = SystemColors.Control;
-            lblQuestion.Font = new Font("Arial Narrow", 12F);
+            lblQuestion.BackColor = Color.FromArgb(64, 64, 64);
+            lblQuestion.Font = new Font("Arial Narrow", 9.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lblQuestion.ForeColor = Color.White;
             lblQuestion.Location = new Point(18, 58);
             lblQuestion.Name = "lblQuestion";
-            lblQuestion.Size = new Size(939, 121);
+            lblQuestion.Size = new Size(1061, 166);
             lblQuestion.TabIndex = 12;
             lblQuestion.Text = "PERGUNTA";
             // 
             // label7
             // 
-            label7.BackColor = SystemColors.Control;
+            label7.BackColor = Color.FromArgb(64, 64, 64);
             label7.Font = new Font("Arial Black", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label7.ForeColor = Color.White;
             label7.Location = new Point(18, 12);
             label7.Name = "label7";
             label7.Size = new Size(152, 42);
@@ -242,8 +248,9 @@
             // 
             // lblQuestionNum
             // 
-            lblQuestionNum.BackColor = SystemColors.Control;
+            lblQuestionNum.BackColor = Color.FromArgb(64, 64, 64);
             lblQuestionNum.Font = new Font("Arial Black", 15.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblQuestionNum.ForeColor = Color.White;
             lblQuestionNum.Location = new Point(176, 12);
             lblQuestionNum.Name = "lblQuestionNum";
             lblQuestionNum.Size = new Size(65, 42);
@@ -298,8 +305,9 @@
             // 
             // lblQuestionType
             // 
-            lblQuestionType.BackColor = SystemColors.Control;
+            lblQuestionType.BackColor = Color.FromArgb(64, 64, 64);
             lblQuestionType.Font = new Font("Arial Black", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            lblQuestionType.ForeColor = Color.White;
             lblQuestionType.Location = new Point(247, 12);
             lblQuestionType.Name = "lblQuestionType";
             lblQuestionType.Size = new Size(710, 42);
@@ -310,9 +318,9 @@
             // 
             btnCheat.BackgroundImage = Properties.Resources.anonymous;
             btnCheat.BackgroundImageLayout = ImageLayout.Zoom;
-            btnCheat.Location = new Point(999, 19);
+            btnCheat.Location = new Point(1046, 9);
             btnCheat.Name = "btnCheat";
-            btnCheat.Size = new Size(80, 80);
+            btnCheat.Size = new Size(33, 35);
             btnCheat.TabIndex = 22;
             btnCheat.UseVisualStyleBackColor = true;
             btnCheat.Visible = false;
@@ -403,12 +411,13 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(64, 64, 64);
             ClientSize = new Size(1370, 745);
             Controls.Add(tableLayoutPanel1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
-            Text = "Grand Theft Auto DevOps";
+            Text = "Grand Theft Auto - AV2";
             WindowState = FormWindowState.Maximized;
             ((System.ComponentModel.ISupportInitialize)pbStars).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
